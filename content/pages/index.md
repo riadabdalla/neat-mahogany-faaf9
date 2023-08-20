@@ -9,9 +9,23 @@ sections:
       type: TitleBlock
     subtitle: Over 30 years in the business
     text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      **Hello, I'm Caro Degryse.**
+
+
+      With 30 years in the tourism industry, I've worked almost everywhere
+      around the globe, collaborating with both startups and major corporations.
+      My expertise spans product creation, contracting, and tour operating. 
+
+
+      I established Humus and started offering a fresh approach to the travel
+      industry. At Humus, while sustainability is at the core of our philosophy,
+      our objective is to deliver actionable consultancy and training for
+      tourism enterprises. Our approach centers on growth, innovation,
+      efficiency, and building authentic human relationships.
+
+
+      **If you're looking to enhance your tourism business and your bottom line,
+      let's work together.**
     actions:
       - label: Get started
         altText: ''
