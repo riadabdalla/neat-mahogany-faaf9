@@ -49,7 +49,7 @@ sections:
             - pt-0
             - pb-0
             - pr-0
-      url: /images/doorway-to-success-humus-tourism-consultancy.jpg
+      url: /images/Caro-Degryse-portrait.jpg
     badge:
       label: Humus tourism consultancy
       color: text-primary
