@@ -7,7 +7,7 @@ sections:
       text: Tourism Consulting for Tour Operators and DMCs
       color: text-dark
       type: TitleBlock
-    subtitle: Over 30 years in the business
+    subtitle: ''
     text: >
       **Hello, I'm Caro Degryse.**
 
