@@ -39,7 +39,7 @@ sections:
     media:
       url: /images/humus-logo-version-arms-removebg-preview (1).png
       altText: Humus Tourism Consultancy
-      elementId: Logo
+      elementId: Image-header
       type: ImageBlock
       styles:
         self:
