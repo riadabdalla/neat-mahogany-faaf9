@@ -43,7 +43,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderWidth: 1
+          borderWidth: 8
           borderStyle: none
     badge:
       label: Humus tourism consultancy
