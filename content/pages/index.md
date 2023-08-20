@@ -44,6 +44,7 @@ sections:
       styles:
         self:
           borderWidth: 1
+          borderStyle: none
     badge:
       label: Humus tourism consultancy
       color: text-primary
