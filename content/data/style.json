@@ -1,9 +1,9 @@
 {
     "light": "#ffffff",
     "dark": "#4A4A4A",
-    "neutral": "#E8E8EB",
+    "neutral": "#fafafa",
     "neutralAlt": "#DCDCDC",
-    "primary": "#2a2a2a",
+    "primary": "#205838",
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
@@ -56,7 +56,7 @@
     },
     "buttonPrimary": {
         "weight": "normal",
-        "case": "none",
+        "case": "uppercase",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
         "shadow": "none",
@@ -66,7 +66,7 @@
     },
     "buttonSecondary": {
         "weight": "normal",
-        "case": "none",
+        "case": "uppercase",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
         "shadow": "none",
@@ -75,13 +75,13 @@
         "type": "ThemeStyleButton"
     },
     "linkPrimary": {
-        "weight": "normal",
-        "case": "none",
+        "weight": "medium",
+        "case": "uppercase",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
     },
     "linkSecondary": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
