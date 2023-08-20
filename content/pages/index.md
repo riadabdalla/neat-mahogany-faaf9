@@ -37,9 +37,9 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/humus-logo-version-arms-removebg-preview (1).png
-      altText: Humus Consultancy
-      elementId: Logo
+      url: /images/doorway-to-success-humus-tourism-consultancy.jpg
+      altText: Humus Tourism Consultancy
+      elementId: Image-header
       type: ImageBlock
       styles:
         self:
@@ -57,9 +57,10 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-3
+          - pl-2
           - pb-16
-          - pr-3
+          - pr-2
+        justifyContent: flex-end
   - type: FeaturedItemsSection
     title:
       text: Key Benefits

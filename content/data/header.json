@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo.svg",
+        "url": "/images/humus-logo-version-arms-removebg-preview (1).png",
         "altText": "Humus Tourism and Sustainability Consultancy",
         "styles": {
             "self": {
@@ -9,7 +9,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "Logo"
     },
     "primaryLinks": [
         {
