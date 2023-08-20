@@ -43,7 +43,7 @@ sections:
       styles:
         self:
           borderWidth: 0
-          borderStyle: none
+          borderStyle: solid
       url: /images/doorway-to-success-humus-tourism-consultancy.jpg
     badge:
       label: Humus tourism consultancy
