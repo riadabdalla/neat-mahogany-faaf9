@@ -39,7 +39,7 @@ sections:
     media:
       url: /images/humus-logo-version-arms-removebg-preview (1).png
       altText: Humus Consultancy
-      elementId: ''
+      elementId: Logo
       type: ImageBlock
     badge:
       label: Humus tourism consultancy
