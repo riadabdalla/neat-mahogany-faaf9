@@ -55,7 +55,7 @@ sections:
           - pt-16
           - pl-3
           - pb-16
-          - pr-16
+          - pr-3
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
