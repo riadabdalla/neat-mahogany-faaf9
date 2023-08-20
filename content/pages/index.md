@@ -36,15 +36,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: ''
-        altText: ''
-        url: ''
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/logo.svg
       altText: Unblock your team boost your time to production preview
