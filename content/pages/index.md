@@ -27,7 +27,7 @@ sections:
       **If you're looking to enhance your tourism business and your bottom line,
       let's work together.**
     actions:
-      - label: Get started
+      - label: learn more
         altText: ''
         url: /
         showIcon: false
