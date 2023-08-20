@@ -37,14 +37,19 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/doorway-to-success-humus-tourism-consultancy.jpg
-      altText: Humus Tourism Consultancy
+      altText: Door to a field of opportunities
       elementId: Image-header
       type: ImageBlock
       styles:
         self:
-          borderWidth: 8
+          borderWidth: 0
           borderStyle: none
+          padding:
+            - pl-0
+            - pt-0
+            - pb-0
+            - pr-0
+      url: /images/Caro-Degryse-portrait-200.jpg
     badge:
       label: Humus tourism consultancy
       color: text-primary
@@ -60,7 +65,7 @@ sections:
           - pl-2
           - pb-16
           - pr-2
-        justifyContent: flex-end
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
