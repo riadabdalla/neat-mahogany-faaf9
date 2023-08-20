@@ -37,8 +37,8 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/logo.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/humus-logo-version-arms-removebg-preview.png
+      altText: Humus Consultancy
       elementId: ''
       type: ImageBlock
     badge:
