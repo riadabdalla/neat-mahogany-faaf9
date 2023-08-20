@@ -37,7 +37,6 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/doorway-to-success-humus-tourism-consultancy.jpg
       altText: Humus Tourism Consultancy
       elementId: Image-header
       type: ImageBlock
