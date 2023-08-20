@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      altText: Humus Tourism Consultancy
+      altText: Door to a field of opportunities
       elementId: Image-header
       type: ImageBlock
       styles:
