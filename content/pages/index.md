@@ -41,6 +41,10 @@ sections:
       altText: Humus Consultancy
       elementId: Logo
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 8
+          borderStyle: none
     badge:
       label: Humus tourism consultancy
       color: text-primary
