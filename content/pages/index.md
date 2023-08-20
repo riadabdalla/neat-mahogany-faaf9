@@ -37,15 +37,15 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/humus-logo-version-arms-removebg-preview.png
+      url: /images/humus-logo-version-arms-removebg-preview (1).png
       altText: Humus Consultancy
-      elementId: ''
+      elementId: Logo
       type: ImageBlock
     badge:
       label: Humus tourism consultancy
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: Header
     colors: bg-light-fg-dark
     styles:
       self:
@@ -53,9 +53,9 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-16
+          - pl-3
           - pb-16
-          - pr-16
+          - pr-3
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
