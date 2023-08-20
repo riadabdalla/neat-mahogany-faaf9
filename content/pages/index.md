@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/humus-logo-version-arms-removebg-preview.png
+      url: /images/humus-logo-version-arms-removebg-preview (1).png
       altText: Humus Consultancy
       elementId: ''
       type: ImageBlock
