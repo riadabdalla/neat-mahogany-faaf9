@@ -627,5 +627,6 @@ seo:
   metaDescription: This demo site is built with Stackbit
   socialImage: /images/main-hero.svg
   type: Seo
+  metaTags: []
 type: PageLayout
 ---
