@@ -59,7 +59,7 @@ sections:
           - pt-16
           - pl-3
           - pb-16
-          - pr-3
+          - pr-2
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
