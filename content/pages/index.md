@@ -38,7 +38,7 @@ sections:
         type: Button
       - label: ''
         altText: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
