@@ -42,7 +42,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderWidth: 4
+          borderWidth: 0
           borderStyle: solid
       url: /images/doorway-to-success-humus-tourism-consultancy.jpg
     badge:
