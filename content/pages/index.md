@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/humus-logo-version-arms-removebg-preview (1).png
+      url: /images/abstract-background.svg
       altText: Humus Tourism Consultancy
       elementId: Image-header
       type: ImageBlock
