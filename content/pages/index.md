@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/logo.svg
+      url: /images/humus-logo-version-arms-removebg-preview.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
