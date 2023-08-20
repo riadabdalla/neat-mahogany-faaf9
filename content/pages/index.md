@@ -28,7 +28,7 @@ sections:
       let's work together.**
     actions:
       - label: learn more
-        altText: ''
+        altText: Find out all about our tourism consulting services
         url: /
         showIcon: false
         icon: arrowRight
