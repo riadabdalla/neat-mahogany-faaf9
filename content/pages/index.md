@@ -648,7 +648,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Caro-Degryse-portrait.jpg
+      url: /images/Caro-Degryse-portrait-400.jpg
       altText: Fun feature preview
     badge:
       type: Badge
