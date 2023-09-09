@@ -65,7 +65,7 @@ sections:
           - pl-2
           - pb-16
           - pr-2
-        justifyContent: center
+        justifyContent: flex-start
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
