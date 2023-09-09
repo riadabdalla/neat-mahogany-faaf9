@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      <div style="text-align: center">**Hello, I'm Caro Degryse.** ![Caro
-      Degryse
+      <div style="float: right; margin-left: 10px;">**Hello, I'm Caro Degryse.**
+      ![Caro Degryse
       photo](https://preview--neat-mahogany-faaf9.stackbit.dev/images/Caro-Degryse-portrait-200.jpg)</div>
 
 
