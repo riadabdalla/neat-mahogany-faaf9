@@ -1,0 +1,64 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Header2",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Top of page"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "text": "Tourism Consulting for Tour Operators and DMCs",
+                    "color": "text-dark",
+                    "styles": null,
+                    "$$type": "TitleBlock"
+                },
+                "subtitle": "",
+                "text": "![](/images/Caro-Degryse-portrait-200.jpg) **Hello, I'm Caro Degryse.**\n\nWith 30 years in the tourism industry, I've worked almost everywhere around the globe, collaborating with both startups and major corporations. My expertise spans product creation, contracting, and tour operating.\n\nI established Humus and started offering a fresh approach to the travel industry. At Humus, while sustainability is at the core of our philosophy, our objective is to deliver actionable consultancy and training for tourism enterprises. Our approach centers on growth, innovation, efficiency, and building authentic human relationships.\n\n**If you're looking to enhance your tourism business and your bottom line, let's work together.**\n",
+                "actions": [
+                    {
+                        "label": "learn more",
+                        "altText": "Find out all about our tourism consulting services",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": "",
+                        "$$type": "Button"
+                    }
+                ],
+                "media": null,
+                "badge": {
+                    "label": "Humus tourism consultancy",
+                    "color": "text-primary",
+                    "styles": null,
+                    "$$type": "Badge"
+                },
+                "elementId": "Header",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "flex-start",
+                        "flexDirection": "row",
+                        "padding": [
+                            "pt-16",
+                            "pl-2",
+                            "pb-16",
+                            "pr-2"
+                        ],
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-header2-3f28.png"
+        }
+    ]
+}
