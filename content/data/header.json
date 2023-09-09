@@ -1,7 +1,7 @@
 {
     "logo": {
-        "url": "/images/humus-logo-version-arms-removebg-preview (1).png",
-        "altText": "Humus Tourism and Sustainability Consultancy",
+        "url": "/images/humus-logo-200.png",
+        "altText": "Humus Consulting for Tourism and Sustainability",
         "styles": {
             "self": {
                 "margin": [
@@ -25,15 +25,6 @@
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -80,14 +71,6 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
             "type": "Button"
         }
     ],

@@ -9,12 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      **Hello, I'm Caro Degryse.**
+      ![](/images/Caro-Degryse-portrait-200.jpg) **Hello, I'm Caro Degryse.**
 
 
       With 30 years in the tourism industry, I've worked almost everywhere
       around the globe, collaborating with both startups and major corporations.
-      My expertise spans product creation, contracting, and tour operating. 
+      My expertise spans product creation, contracting, and tour operating.
 
 
       I established Humus and started offering a fresh approach to the travel
@@ -36,20 +36,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-    media:
-      altText: Door to a field of opportunities
-      elementId: Image-header
-      type: ImageBlock
-      styles:
-        self:
-          borderWidth: 0
-          borderStyle: none
-          padding:
-            - pl-0
-            - pt-0
-            - pb-0
-            - pr-0
-      url: /images/Caro-Degryse-portrait-400.jpg
     badge:
       label: Humus tourism consultancy
       color: text-primary
@@ -58,7 +44,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
         flexDirection: row
         padding:
           - pt-16
@@ -638,9 +624,9 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Stackbit
-  socialImage: /images/main-hero.svg
+  metaTitle: Humus Tourism Consultancy
+  metaDescription: Humus Consultancy for Tourism & Sustainability
+  socialImage: /images/Caro-Degryse-portrait.jpg
   type: Seo
   metaTags: []
 type: PageLayout
