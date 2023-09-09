@@ -55,7 +55,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Tourism Consultancy by experts
       color: text-dark
     subtitle: Increase your reach
     text: >
