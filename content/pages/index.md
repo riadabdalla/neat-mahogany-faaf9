@@ -640,7 +640,7 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Stackbit
-  socialImage: /images/main-hero.svg
+  socialImage: /images/Caro-Degryse-portrait.jpg
   type: Seo
   metaTags: []
 type: PageLayout
