@@ -18,12 +18,12 @@ sections:
 
 
       I established Humus to offer a fresh approach to the travel industry:
-      Sustainability. 
+      Sustainability.
 
 
-      With sustainability is at the core of our philosophy, our objective
-      remains to deliver actionable consultancy and training for tourism
-      enterprises, tourism offices, tourism ministries and local projects. 
+      With sustainability at the core of our philosophy, our objective remains
+      to deliver actionable consultancy and training for tourism enterprises,
+      tourism offices, tourism ministries and local projects.
 
 
       If you're looking to enhance your tourism business and your bottom line,
