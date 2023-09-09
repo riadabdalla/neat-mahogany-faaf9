@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
+    text: >+
       ![](/images/Caro-Degryse-portrait-200.jpg) **Hello, I'm Caro Degryse.**
 
 
@@ -26,6 +26,14 @@ sections:
 
       **If you're looking to enhance your tourism business and your bottom line,
       let's work together.**
+
+
+      ```
+
+      qdfgdfghdfgh
+
+      ```
+
     actions:
       - label: learn more
         altText: Find out all about our tourism consulting services
