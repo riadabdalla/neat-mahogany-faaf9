@@ -96,7 +96,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Humus Tourism Consultancy
+      label: For Tour Operators and DMCs
       color: text-primary
     colors: bg-light-fg-dark
     styles:
