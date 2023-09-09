@@ -3,5 +3,6 @@
     "titleSuffix": "Theme Demo",
     "defaultSocialImage": "/images/main-hero.svg",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "favicon": "/images/image (1).svg"
 }
