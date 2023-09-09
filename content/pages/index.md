@@ -5,6 +5,58 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Tourism Consulting for Tour Operators and DMCs
+      color: text-dark
+    subtitle: ''
+    text: >
+      <div style="float: left; margin-right: 10px;">**Hello, I'm Caro Degryse.**
+      ![Caro Degryse
+      photo](https\://preview--neat-mahogany-faaf9.stackbit.dev/images/Caro-Degryse-portrait-200.jpg)</div>
+
+
+      With 30 years in the tourism industry, I've worked almost everywhere
+      around the globe, collaborating with both startups and major corporations.
+      My expertise spans product creation, contracting, and tour operating.
+
+
+      I established Humus and started offering a fresh approach to the travel
+      industry. At Humus, while sustainability is at the core of our philosophy,
+      our objective is to deliver actionable consultancy and training for
+      tourism enterprises. Our approach centers on growth, innovation,
+      efficiency, and building authentic human relationships.
+
+
+      **If you're looking to enhance your tourism business and your bottom line,
+      let's work together.**
+    actions:
+      - type: Button
+        label: learn more
+        altText: Find out all about our tourism consulting services
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    badge:
+      type: Badge
+      label: Humus tourism consultancy
+      color: text-primary
+    elementId: Header
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: flex-start
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-2
+          - pb-16
+          - pr-2
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Tourism Consultancy by Experts
       color: text-dark
     subtitle: ''
