@@ -55,7 +55,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Tourism Consultancy by experts
+      text: Tourism Consultancy by Experts
       color: text-dark
     subtitle: ''
     text: >
