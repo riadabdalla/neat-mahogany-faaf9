@@ -1,7 +1,6 @@
 {
     "footer": "content/data/footer.json",
     "titleSuffix": "",
-    "defaultSocialImage": "/images/main-hero.svg",
     "type": "Config",
     "header": "content/data/header.json",
     "favicon": "/images/image (1).svg"
