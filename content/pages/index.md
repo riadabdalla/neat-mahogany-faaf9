@@ -8,8 +8,11 @@ sections:
       text: Tourism Consulting for Tour Operators and DMCs
       color: text-dark
     subtitle: ''
-    text: >2
-       **Hello, I'm Caro Degryse.** ![](https://preview--neat-mahogany-faaf9.stackbit.dev/images/Caro-Degryse-portrait-200.jpg)
+    text: >
+      <div style="text-align: center">**Hello, I'm Caro Degryse.** ![Caro
+      Degryse
+      photo](https://preview--neat-mahogany-faaf9.stackbit.dev/images/Caro-Degryse-portrait-200.jpg)</div>
+
 
       With 30 years in the tourism industry, I've worked almost everywhere
       around the globe, collaborating with both startups and major corporations.
