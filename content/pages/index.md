@@ -9,12 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      **Hello, I'm Caro Degryse.**
+      ![](/images/Caro-Degryse-portrait-200.jpg) **Hello, I'm Caro Degryse.**
 
 
       With 30 years in the tourism industry, I've worked almost everywhere
       around the globe, collaborating with both startups and major corporations.
-      My expertise spans product creation, contracting, and tour operating. 
+      My expertise spans product creation, contracting, and tour operating.
 
 
       I established Humus and started offering a fresh approach to the travel
