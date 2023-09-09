@@ -36,20 +36,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-    media:
-      altText: Caro DEGRYSE
-      elementId: Image-header
-      type: ImageBlock
-      styles:
-        self:
-          borderWidth: 0
-          borderStyle: none
-          padding:
-            - pl-0
-            - pt-0
-            - pb-0
-            - pr-0
-      url: /images/Caro-Degryse-portrait-400.jpg
     badge:
       label: Humus tourism consultancy
       color: text-primary
