@@ -57,7 +57,7 @@ sections:
       type: TitleBlock
       text: Tourism Consultancy by experts
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       **Hello, I'm Caro Degryse.**
 
