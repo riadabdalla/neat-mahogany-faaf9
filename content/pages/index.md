@@ -48,7 +48,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: For Tour Operators and DMCs
+      label: Bring back the human in tourism
       color: text-primary
     colors: bg-light-fg-dark
     styles:
