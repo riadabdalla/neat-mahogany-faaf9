@@ -3,5 +3,10 @@
     "titleSuffix": "",
     "type": "Config",
     "header": "content/data/header.json",
-    "favicon": "/images/image (1).svg"
+    "favicon": "/images/image (1).svg",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag"
+        }
+    ]
 }
