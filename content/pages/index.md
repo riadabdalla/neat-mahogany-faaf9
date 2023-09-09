@@ -9,9 +9,9 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      <div style="float: right; margin-left: 10px;">**Hello, I'm Caro Degryse.**
+      <div style="float: left; margin-right: 10px;">**Hello, I'm Caro Degryse.**
       ![Caro Degryse
-      photo](https://preview--neat-mahogany-faaf9.stackbit.dev/images/Caro-Degryse-portrait-200.jpg)</div>
+      photo](https\://preview--neat-mahogany-faaf9.stackbit.dev/images/Caro-Degryse-portrait-200.jpg)</div>
 
 
       With 30 years in the tourism industry, I've worked almost everywhere
