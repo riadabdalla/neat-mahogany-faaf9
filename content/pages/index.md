@@ -638,7 +638,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Humus Tourism Consultancy
   metaDescription: Humus Consultancy for Tourism & Sustainability
   socialImage: /images/Caro-Degryse-portrait.jpg
   type: Seo
