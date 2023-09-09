@@ -4,54 +4,91 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Tourism Consulting for Tour Operators and DMCs
-      color: text-dark
       type: TitleBlock
+      text: Tourism Consultancy by Experts
+      color: text-dark
     subtitle: ''
     text: >
-      ![](/images/Caro-Degryse-portrait-200.jpg) **Hello, I'm Caro Degryse.**
+      **Hello, I'm Caro Degryse.**
 
 
-      With 30 years in the tourism industry, I've worked almost everywhere
-      around the globe, collaborating with both startups and major corporations.
-      My expertise spans product creation, contracting, and tour operating.
+      With 30 years in the tourism industry, I've worked around the globe with
+      major corporations, as well as local DMCs. My expertise spans across
+      product creation, contracting, and tour operating.
 
 
-      I established Humus and started offering a fresh approach to the travel
-      industry. At Humus, while sustainability is at the core of our philosophy,
-      our objective is to deliver actionable consultancy and training for
-      tourism enterprises. Our approach centers on growth, innovation,
-      efficiency, and building authentic human relationships.
+      I established Humus to offer a fresh approach to the travel industry:
+      Sustainability.
 
 
-      **If you're looking to enhance your tourism business and your bottom line,
-      let's work together.**
+      With sustainability at the core of our philosophy, our objective remains
+      to deliver actionable consultancy and training for tourism enterprises,
+      tourism offices, tourism ministries and local projects.
+
+
+      If you're looking to enhance your tourism business and your bottom line,
+      **let's work together.**
     actions:
-      - label: learn more
-        altText: Find out all about our tourism consulting services
+      - type: Button
+        label: Get started
         url: /
-        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: ''
-        type: Button
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/Caro-Degryse-portrait-400.jpg
+      altText: Fun feature preview
     badge:
-      label: Humus tourism consultancy
-      color: text-primary
       type: Badge
-    elementId: Header
+      label: Bring back the human in tourism
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: flex-start
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-2
-          - pb-16
-          - pr-2
-        justifyContent: center
+        alignItems: center
+  - title:
+      text: Social Media Management
+      color: text-dark
+      type: TitleBlock
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    media:
+      url: /images/hero2.svg
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -319,41 +356,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title:
       text: Business Consulting
       color: text-dark
