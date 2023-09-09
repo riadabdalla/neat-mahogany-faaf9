@@ -1,6 +1,6 @@
 {
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "",
     "defaultSocialImage": "/images/main-hero.svg",
     "type": "Config",
     "header": "content/data/header.json",
