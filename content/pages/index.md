@@ -639,7 +639,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Stackbit
+  metaDescription: Humus Consultancy for Tourism & Sustainability
   socialImage: /images/Caro-Degryse-portrait.jpg
   type: Seo
   metaTags: []
