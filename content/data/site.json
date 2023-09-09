@@ -6,7 +6,8 @@
     "favicon": "/images/image (1).svg",
     "defaultMetaTags": [
         {
-            "type": "MetaTag"
+            "type": "MetaTag",
+            "property": "og:site_name"
         }
     ]
 }
