@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      altText: Door to a field of opportunities
+      altText: Caro DEGRYSE
       elementId: Image-header
       type: ImageBlock
       styles:
