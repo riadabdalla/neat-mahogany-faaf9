@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A Tourism Consultancy
+      text: Tailored Strategies for Responsible Tourism Growth
       color: text-dark
     subtitle: ''
     text: >
