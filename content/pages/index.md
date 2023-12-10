@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Tourism Consulting for Tour Operators and DMCs
+      text: A Tourism Consultancy
       color: text-dark
     subtitle: ''
     text: >
