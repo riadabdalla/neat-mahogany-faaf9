@@ -107,7 +107,7 @@ sections:
       self:
         alignItems: center
   - title:
-      text: Social Media Management
+      text: Find me on LindekIn
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
