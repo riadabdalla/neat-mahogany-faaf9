@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Tailored Strategies for Responsible Tourism Growth
+      text: Tailored Strategies for Responsible Growth
       color: text-dark
     subtitle: ''
     text: >
