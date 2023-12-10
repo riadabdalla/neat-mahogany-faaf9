@@ -34,7 +34,7 @@ sections:
         altText: Find out all about our tourism consulting services
         url: /
         showIcon: false
-        icon: arrowRight
+        icon: arrowDown
         iconPosition: right
         style: secondary
         elementId: ''
