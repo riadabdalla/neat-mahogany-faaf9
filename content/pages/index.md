@@ -9,25 +9,31 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      <div style="float: left; margin-right: 10px;">**Hello, I'm Caro Degryse.**
-      ![Caro Degryse
-      photo](https\://preview--neat-mahogany-faaf9.stackbit.dev/images/Caro-Degryse-portrait-200.jpg)</div>
+      At Humus Tourism Consultancy & Development, we understand the complexities
+      and challenges you face in the tourism industry. Our approach is
+      straightforward and focused on practical solutions. We aim to assist you
+      in developing and enhancing your tourism business in a way that's
+      sustainable and responsible.
 
 
-      With 30 years in the tourism industry, I've worked almost everywhere
-      around the globe, collaborating with both startups and major corporations.
-      My expertise spans product creation, contracting, and tour operating.
+      Our services are designed to be directly relevant to your needs. Whether
+      it's about creating new tourism products, improving existing ones, or
+      engaging with community-based tourism, we're here to provide support
+      that's tailored to your specific situation. We believe in a partnership
+      approach, where your success is a reflection of our work.
 
 
-      I established Humus and started offering a fresh approach to the travel
-      industry. At Humus, while sustainability is at the core of our philosophy,
-      our objective is to deliver actionable consultancy and training for
-      tourism enterprises. Our approach centers on growth, innovation,
-      efficiency, and building authentic human relationships.
+      Sustainability is more than a buzzword for us. We are committed to helping
+      you navigate the path to a tourism business that's economically viable,
+      environmentally conscious, and beneficial to local communities. Our
+      experience is global, but our solutions are personalized, ensuring they
+      fit within your unique context. 
 
 
-      **If you're looking to enhance your tourism business and your bottom line,
-      let's work together.**
+      We're here to share our knowledge and expertise with you, helping you to
+      build a tourism business that's not only successful but also a force for
+      good in your community and environment. Let's work together towards
+      creating a positive impact in the tourism industry.
     actions:
       - type: Button
         label: learn more
