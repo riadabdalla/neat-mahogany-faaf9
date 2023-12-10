@@ -33,7 +33,7 @@ sections:
         label: learn more
         altText: Find out all about our tourism consulting services
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowDown
         iconPosition: right
         style: secondary
